@@ -1,6 +1,6 @@
 # 🔊 Volume Control Pro
 
-**Volume Control Pro** is an advanced volume management utility for Windows, built with AutoHotkey v2. This tool enhances your system audio control by combining custom hotkey increments with a dynamic visual indicator in the system tray.
+**Volume Control Pro** is an advanced volume management utility for Windows. This tool enhances your system audio control by combining custom hotkey increments with a dynamic visual indicator in the system tray.
 
 ---
 
@@ -12,7 +12,7 @@
 * **Tray Interactions**: 
     * **Single-Click**: Toggle mute instantly.
     * **Double-Click**: Open the Windows Volume Mixer.
-* **Device Awareness**: Automatically updates when you switch audio playback devices.
+* **Device Awareness**: Automatically updates the icon and tooltip when you switch audio playback devices.
 
 ---
 
@@ -28,17 +28,20 @@
 
 ---
 
-## 🛠️ Configuration & Setup
+## 🚀 Getting Started
 
-### Requirements
-* **AutoHotkey v2.0+**: Required to run the `.ahk` script.
-* **Operating System**: Windows 10/11 (Compatible with versions up to 10.0.18362.0).
+**Volume Control Pro** is designed to be fully portable and standalone. The icons are embedded directly into the executable, so no external folders are required.
 
-### Icon Assets
-The script requires a folder named `icons` in the same directory as the executable/script.
-* **Standard Icons**: `vol_0.ico` through `vol_100.ico`.
-* **Mute Icons**: `vol_0_muted.ico` through `vol_100_muted.ico`.
-* *Note: `.png` files are also supported if `.ico` files are missing.*
+1.  **Download**: Place `Volume Control Pro.exe` anywhere on your computer.
+2.  **Launch**: Double-click the `.exe` to start the application.
+3.  **Use**: The current volume percentage will immediately appear in your system tray.
+
+---
+
+## 🛠️ Requirements
+
+* **Operating System**: Windows 10 or Windows 11.
+* **Standalone**: No installation or external assets required.
 
 ---
 
