@@ -32,7 +32,7 @@
 
 **Volume Control Pro** is designed to be fully portable and standalone. The icons are embedded directly into the executable, so no external folders are required.
 
-1.  **Download**: Place the `.exe` anywhere on your computer.
+1.  [**Download**](https://github.com/armaninyow/Volume-Control-Pro/releases): Place the `.exe` anywhere on your computer.
 2.  **Launch**: Double-click the `.exe` to start the application.
 3.  **Use**: The current volume percentage will immediately appear in your system tray.
 
