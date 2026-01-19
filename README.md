@@ -1,6 +1,6 @@
 # 🔊 Volume Control Pro
 
-![Volume Control Pro](https://github.com/armaninyow/Volume-Control-Pro/blob/main/VolumeControlPro.gif)
+![Volume Control Pro](VolumeControlPro.gif)
 
 **Volume Control Pro** is an advanced volume management utility for Windows. This tool enhances your system audio control by combining custom hotkey increments with a dynamic visual indicator in the system tray.
 
