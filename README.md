@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 * **Dynamic Tray Icon**: Displays the current volume percentage directly in the system tray.
 * **Precision Increments**: Use modifier keys to adjust volume by specific amounts (1%, 2%, 5%, or 10%).
@@ -18,7 +18,7 @@
 
 ---
 
-## ⌨️ Hotkeys
+## Hotkeys
 
 | Key Combination | Action | Increment |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 **Volume Control Pro** is designed to be fully portable and standalone. The icons are embedded directly into the executable, so no external folders are required.
 
@@ -40,14 +40,14 @@
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 * **Operating System**: Windows 10 or Windows 11.
 * **Standalone**: No installation or external assets required.
 
 ---
 
-## 📜 License
+## License
 
 ### CC0 1.0 Universal
 This project is licensed under the **Creative Commons Legal Code CC0 1.0 Universal**. 
